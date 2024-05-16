@@ -41,3 +41,12 @@ highlight
 {{% callout note %}}
 A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
 {{% /callout %}}
+
+```cpp
+
+```
+
+> [!NOTE]
+> 啊阿斯顿啊安定阿斯顿
+> 阿松大测试
+
