@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/blog/SUSTech-CS205/class/index.md",
+                "file": "content/blog/SUSTech-CS205/basic/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/blog/SUSTech-CS205/class/index.md",
+                "file": "content/blog/SUSTech-CS205/basic/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/blog/SUSTech-CS205/class/index.md",
+                "file": "content/blog/SUSTech-CS205/basic/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/blog/SUSTech-CS205/class/index.md"
+                "file": "content/blog/SUSTech-CS205/basic/index.md"
               }
             }
           }
@@ -147,10 +147,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f66068f936e041f4",
+  "active": "4e2dd0bb2a16a405",
   "lastOpenFiles": [
-    "content/blog/SUSTech-CS205/basic/index.md",
     "content/blog/SUSTech-CS205/class/index.md",
+    "content/blog/SUSTech-CS205/basic/index.md",
     "content/blog/SUSTech-CS205/basic",
     "content/blog/SUSTech-CS205/_index.md",
     "content/blog/_index.md",
