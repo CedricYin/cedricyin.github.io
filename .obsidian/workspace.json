@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7f218eca75c91286",
+        "id": "665596bd17e96e43",
         "type": "tabs",
         "children": [
           {
-            "id": "e4156d505f1ddaf1",
+            "id": "4e2dd0bb2a16a405",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -17,6 +17,14 @@
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "53c974b0f0f1f8bc",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -147,11 +155,20 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e4156d505f1ddaf1",
+  "active": "4e2dd0bb2a16a405",
   "lastOpenFiles": [
+    "未命名.md",
+    "content/blog/get-started/index.md",
+    "content/blog/SUSTech-CS205-class/未命名.md",
+    "content/blog/project-management/index.md",
+    "content/blog/test-post/index.md",
+    "content/blog/teach-courses/index.md",
+    "content/blog/second-brain/index.md",
+    "content/blog/get-started/featured.jpg",
+    "content/tags/_index.md",
+    "content/blog/SUSTech-CS205-class/index.md",
     "assets/css/themes/my.css.md",
     "assets/css/themes/my.css",
-    "content/blog/SUSTech-CS205-class/index.md",
     "assets/css/themes",
     "assets/css",
     "content/categories/_index.md",
@@ -165,10 +182,8 @@
     "content/categories/未命名",
     "content/blog/transformer/index.md",
     "content/categories/ai",
-    "content/tags/_index.md",
     "hugo-blox/blox/all-access/README.md",
     "content/categories",
-    "content/blog/get-started/index.md",
     "content/blog/ai/transformer/index.md",
     "content/blog/transformer/Pasted image 20240516154540.png",
     "content/blog/transformer",
@@ -176,18 +191,13 @@
     "content/authors/admin/_index.md",
     "content/_index.md",
     "content/blog/data-visualization/index.md",
-    "content/blog/project-management/index.md",
-    "content/blog/second-brain/index.md",
-    "content/blog/teach-courses/index.md",
     "content/authors/_index.md",
     "content/blog/ai/_index.md",
     "content/blog/_index.md",
     "content/blog/ai/transformer/Pasted image 20240516154540.png",
     "content/blog/ai/transformer",
-    "content/blog/test-post/index.md",
     "content/uses.md",
     "README.md",
-    "LICENSE.md",
     "content/blog/test-post/Pasted image 20240516102839.png",
     "Pasted image 20240516102740.png",
     "content/blog/test-post/image.png"
