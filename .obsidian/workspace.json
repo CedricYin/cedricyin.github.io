@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/blog/transformer/index.md",
+                "file": "content/categories/ai/transformer/_index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/blog/transformer/index.md",
+                "file": "content/categories/ai/transformer/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/blog/transformer/index.md",
+                "file": "content/categories/ai/transformer/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/blog/transformer/index.md"
+                "file": "content/categories/ai/transformer/_index.md"
               }
             }
           }
@@ -149,6 +149,12 @@
   },
   "active": "e4156d505f1ddaf1",
   "lastOpenFiles": [
+    "content/categories/ai/_index.md",
+    "content/categories/ai/transformer/_index.md",
+    "content/categories/ai/transformer",
+    "content/categories/未命名",
+    "content/blog/transformer/index.md",
+    "content/categories/ai",
     "content/categories/_index.md",
     "content/tags/_index.md",
     "hugo-blox/blox/all-access/README.md",
@@ -156,7 +162,6 @@
     "content/blog/get-started/index.md",
     "content/blog/ai/transformer/index.md",
     "content/blog/transformer/Pasted image 20240516154540.png",
-    "content/blog/transformer/index.md",
     "content/blog/transformer",
     "content/blog/ai/index.md",
     "content/authors/admin/_index.md",
