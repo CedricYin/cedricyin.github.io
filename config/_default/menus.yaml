@@ -5,15 +5,12 @@ main:
   - name: Home
     url: /
     weight: 10
-  - name: Topics
+  - name: 分类
     url: tags/
     weight: 20
-  - name: Uses
-    url: uses/
-    weight: 30
   - name: Tags
     identifier: tags
-    weight: 40
+    weight: 30
   - name: C/C++
     parent: tags
     url: tags/cpp
