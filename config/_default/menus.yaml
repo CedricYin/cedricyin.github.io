@@ -11,3 +11,10 @@ main:
   - name: Uses
     url: uses/
     weight: 30
+  - name: Tags
+    identifier: tags
+    weight: 40
+  - name: C/C++
+    parent: tags
+    url: tags/cpp
+    weight: 10
