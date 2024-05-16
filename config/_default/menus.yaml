@@ -9,7 +9,7 @@ main:
     url: blog/
     weight: 20
   - name: Categories
-    url: category/
+    url: categories/
     weight: 30
   - name: Tag
     url: tags/
