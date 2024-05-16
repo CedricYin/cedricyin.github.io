@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "28666ee6439b5a30",
+        "id": "a04444e68c80ba76",
         "type": "tabs",
         "children": [
           {
-            "id": "7b2f44c590f9cb99",
+            "id": "a21d234451260cfa",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -147,25 +147,25 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f66068f936e041f4",
+  "active": "a21d234451260cfa",
   "lastOpenFiles": [
-    "content/blog/_index.md",
+    "content/_index.md",
+    "content/tags/_index.md",
+    "content/authors/admin/_index.md",
+    "content/authors/_index.md",
     "content/blog/ai/_index.md",
+    "content/blog/_index.md",
     "content/blog/ai/transformer/index.md",
     "content/blog/project-management/index.md",
     "content/blog/data-visualization/index.md",
     "content/blog/ai/transformer/Pasted image 20240516154540.png",
     "content/blog/ai/transformer",
-    "content/tags/_index.md",
-    "content/_index.md",
     "content/blog/ai",
     "content/blog/test-post/index.md",
     "content/uses.md",
     "content/blog/teach-courses/index.md",
     "content/blog/second-brain/index.md",
     "content/blog/get-started/index.md",
-    "content/authors/admin/_index.md",
-    "content/authors/_index.md",
     "README.md",
     "LICENSE.md",
     "2024-05-16.md",
