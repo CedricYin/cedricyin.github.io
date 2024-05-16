@@ -33,6 +33,7 @@ header:
     show_search: true
     show_theme_chooser: true
     fixed_to_top: true
+    align: "left"
 
 # Site footer
 # footer:
