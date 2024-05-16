@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "assets/css/themes/my.css.md",
+                "file": "content/blog/SUSTech-CS205-class/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/css/themes/my.css.md",
+                "file": "content/blog/SUSTech-CS205-class/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets/css/themes/my.css.md",
+                "file": "content/blog/SUSTech-CS205-class/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "assets/css/themes/my.css.md"
+                "file": "content/blog/SUSTech-CS205-class/index.md"
               }
             }
           }
@@ -149,8 +149,9 @@
   },
   "active": "e4156d505f1ddaf1",
   "lastOpenFiles": [
-    "content/blog/SUSTech-CS205-class/index.md",
     "assets/css/themes/my.css.md",
+    "assets/css/themes/my.css",
+    "content/blog/SUSTech-CS205-class/index.md",
     "assets/css/themes",
     "assets/css",
     "content/categories/_index.md",
@@ -183,12 +184,10 @@
     "content/blog/_index.md",
     "content/blog/ai/transformer/Pasted image 20240516154540.png",
     "content/blog/ai/transformer",
-    "content/blog/ai",
     "content/blog/test-post/index.md",
     "content/uses.md",
     "README.md",
     "LICENSE.md",
-    "2024-05-16.md",
     "content/blog/test-post/Pasted image 20240516102839.png",
     "Pasted image 20240516102740.png",
     "content/blog/test-post/image.png"
