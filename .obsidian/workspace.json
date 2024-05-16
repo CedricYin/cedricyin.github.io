@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#MadeWithHugoBlox",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -129,12 +129,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,9 +148,10 @@
   },
   "active": "bed3de71bdc03db2",
   "lastOpenFiles": [
+    "2024-05-16.md",
+    "content/blog/test-post/index.md",
     "content/blog/test-post/Pasted image 20240516102839.png",
     "Pasted image 20240516102740.png",
-    "content/blog/test-post/index.md",
     "content/blog/test-post/image.png"
   ]
 }
