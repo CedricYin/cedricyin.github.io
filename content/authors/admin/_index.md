@@ -21,46 +21,20 @@ profiles:
 highlight_name: true
 website: ""
 
-
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
-  # - name: Technical
-  #   items:
-  #     - name: C/C++
-  #       description: ''
-  #       percent: 80
-  #       icon: cplusplus
-  #       icon_pack: fab
-  #     - name: AI
-  #       description: ''
-  #       percent: 70
-  #       icon: google-scholar
-  #       icon_pack: fas
-  #     - name: HPC
-  #       description: ''
-  #       percent: 70
-  #       icon: ros
-  #       icon_pack: fas
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
+  - name: Technical
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-hiking
-        icon_pack: fas
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-        icon_pack: fas
-      - name: Photography
+      - name: C/C++
         description: ''
         percent: 80
-        icon: camera-retro
-        icon_pack: fas
+      - name: Machine Learning
+        description: ''
+        percent: 60
+      - name: High Performance Computing
+        description: ''
+        percent: 80
 ---
 
 好记性不如烂笔头，此博客用于记录自己的学习过程，大部分内容只是一些**总结式的、对我个人来说比较有用的**课堂笔记、文章笔记等。
