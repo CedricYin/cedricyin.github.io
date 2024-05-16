@@ -160,3 +160,6 @@ asd
 
 {{callout note}}
 asd 
+
+大图片渲染测试
+![](Pasted%20image%2020240516211905.png)
