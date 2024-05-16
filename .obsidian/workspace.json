@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/blog/data-visualization/index.md",
+                "file": "content/authors/admin/_index.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/blog/data-visualization/index.md",
+                "file": "content/authors/admin/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/blog/data-visualization/index.md",
+                "file": "content/authors/admin/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/blog/data-visualization/index.md"
+                "file": "content/authors/admin/_index.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   },
   "active": "7b2f44c590f9cb99",
   "lastOpenFiles": [
+    "content/blog/data-visualization/index.md",
     "content/authors/admin/_index.md",
     "content/tags/_index.md",
     "content/authors/_index.md",
