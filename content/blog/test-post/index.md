@@ -1,6 +1,8 @@
 ---
 title: test post
 date: 2024-05-16
+tags:
+  - test
 ---
 
 this is a post for test.
