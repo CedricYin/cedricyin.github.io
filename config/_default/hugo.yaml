@@ -15,6 +15,7 @@ cascade:
   - _target:
       path: /blog/**
       kind: page
+      style: 'text-align: justify; font-size: 0.8em;'
     pager: true
     editable: false
     hide_date: false
@@ -23,7 +24,6 @@ cascade:
     commentable: true
     show_related: false
     share: false
-    font_size: s
     # Just use Breadcrumb for navigation on blog post pages?
     show_breadcrumb: false
     header:
