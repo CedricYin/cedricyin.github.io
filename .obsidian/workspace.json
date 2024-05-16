@@ -15,7 +15,7 @@
               "state": {
                 "file": "content/blog/SUSTech-CS205/SUSTech-CS205-class/index.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -149,8 +149,10 @@
   },
   "active": "4e2dd0bb2a16a405",
   "lastOpenFiles": [
-    "content/blog/SUSTech-CS205/_index.md",
+    "content/blog/SUSTech-CS205/SUSTech-CS205-basic/index.md",
     "content/blog/SUSTech-CS205/SUSTech-CS205-class/index.md",
+    "content/blog/SUSTech-CS205/SUSTech-CS205-basic",
+    "content/blog/SUSTech-CS205/_index.md",
     "content/blog/_index.md",
     "content/blog/mytemplate/index.md",
     "content/blog/transformer/index.md",
@@ -180,7 +182,6 @@
     "content/categories/未命名",
     "content/categories/ai",
     "hugo-blox/blox/all-access/README.md",
-    "content/categories",
     "content/blog/ai/transformer/index.md",
     "content/blog/transformer/Pasted image 20240516154540.png",
     "content/blog/ai/index.md",
@@ -188,7 +189,6 @@
     "content/_index.md",
     "content/blog/data-visualization/index.md",
     "content/authors/_index.md",
-    "content/blog/ai/_index.md",
     "content/blog/ai/transformer/Pasted image 20240516154540.png",
     "content/blog/test-post/Pasted image 20240516102839.png",
     "Pasted image 20240516102740.png",
