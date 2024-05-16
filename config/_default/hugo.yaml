@@ -15,7 +15,6 @@ cascade:
   - _target:
       path: /blog/**
       kind: page
-      style: 'text-align: justify; font-size: 0.8em;'
     pager: true
     editable: false
     hide_date: false

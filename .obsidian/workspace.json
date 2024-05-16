@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/blog/SUSTech-CS205-class/index.md",
+                "file": "assets/css/themes/my.css.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/blog/SUSTech-CS205-class/index.md",
+                "file": "assets/css/themes/my.css.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/blog/SUSTech-CS205-class/index.md",
+                "file": "assets/css/themes/my.css.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/blog/SUSTech-CS205-class/index.md"
+                "file": "assets/css/themes/my.css.md"
               }
             }
           }
@@ -147,10 +147,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f66068f936e041f4",
+  "active": "e4156d505f1ddaf1",
   "lastOpenFiles": [
-    "content/categories/_index.md",
     "content/blog/SUSTech-CS205-class/index.md",
+    "assets/css/themes/my.css.md",
+    "assets/css/themes",
+    "assets/css",
+    "content/categories/_index.md",
     "content/blog/SUSTech-CS205-class/Pasted image 20240516190057.png",
     "content/blog/SUSTech-CS205-class/Pasted image 20240516185927.png",
     "content/blog/SUSTech-CS205-class",
