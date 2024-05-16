@@ -1,6 +1,6 @@
 ---
 title: Cedric Yin
-name_pronunciation: "''"
+name_pronunciation: ''
 first_name: Cedric
 last_name: Yin
 status:
