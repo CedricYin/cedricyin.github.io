@@ -8,11 +8,18 @@ main:
   - name: Tags
     url: tags/
     identifier: tags
-    weight: 100
-  - name: child
+    weight: 1000
+  - name: child1
     parent: tags
-    identifier: child
+    identifier: child1
+    weight: 100
+  - name: child2
+    parent: tags
+    identifier: child2
+    weight: 100
+  - name: grandson1
+    parent: child1
     weight: 10
-  - name: grandson
-    parent: child
-    weight: 1
+  - name: grandson2
+    parent: child2
+    weight: 20
