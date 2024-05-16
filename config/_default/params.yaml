@@ -7,7 +7,6 @@
 appearance:
   mode: system
   color: rose
-  font_size: xs
 
 # SEO
 marketing:

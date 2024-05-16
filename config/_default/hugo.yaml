@@ -23,6 +23,7 @@ cascade:
     commentable: true
     show_related: false
     share: false
+    font_size: s
     # Just use Breadcrumb for navigation on blog post pages?
     show_breadcrumb: false
     header:
