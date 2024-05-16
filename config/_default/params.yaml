@@ -32,6 +32,8 @@ header:
     enable: true
     show_search: true
     show_theme_chooser: true
+    fixed_to_top: true
+    show_translations: true
 
 # Site footer
 footer:
