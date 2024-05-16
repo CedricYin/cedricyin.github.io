@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/authors/admin/_index.md",
+                "file": "content/blog/helloworld/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/authors/admin/_index.md",
+                "file": "content/blog/helloworld/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/authors/admin/_index.md",
+                "file": "content/blog/helloworld/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/authors/admin/_index.md"
+                "file": "content/blog/helloworld/index.md"
               }
             }
           }
@@ -148,6 +148,10 @@
   },
   "active": "4e2dd0bb2a16a405",
   "lastOpenFiles": [
+    "content/blog/helloworld/Pasted image 20240516205354.png",
+    "content/authors/admin/_index.md",
+    "content/blog/helloworld/index.md",
+    "content/blog/helloworld",
     "content/authors/admin/avatar.png",
     "content/blog/_index.md",
     "content/blog/SUSTech-CS205/basic/index.md",
@@ -180,14 +184,11 @@
     "content/categories/ai/_index.md",
     "content/categories/ai/transformer",
     "content/categories/未命名",
-    "content/categories/ai",
     "hugo-blox/blox/all-access/README.md",
     "content/blog/ai/transformer/index.md",
     "content/blog/transformer/Pasted image 20240516154540.png",
     "content/blog/ai/index.md",
-    "content/authors/admin/_index.md",
     "content/_index.md",
-    "content/blog/data-visualization/index.md",
     "content/blog/ai/transformer/Pasted image 20240516154540.png",
     "content/blog/test-post/Pasted image 20240516102839.png",
     "Pasted image 20240516102740.png",
