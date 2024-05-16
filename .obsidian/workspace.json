@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -148,8 +147,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a21d234451260cfa",
+  "active": "f66068f936e041f4",
   "lastOpenFiles": [
+    "content/blog/ai/index.md",
     "content/authors/admin/_index.md",
     "content/_index.md",
     "content/blog/data-visualization/index.md",

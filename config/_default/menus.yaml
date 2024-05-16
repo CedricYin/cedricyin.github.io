@@ -4,22 +4,13 @@
 main:
   - name: Home
     url: /
-    weight: 1000
-  - name: Tags
-    url: tags/
-    identifier: tags
-    weight: 1000
-  - name: child1
-    parent: tags
-    identifier: child1
-    weight: 100
-  - name: child2
-    parent: tags
-    identifier: child2
-    weight: 100
-  - name: grandson1
-    parent: child1
     weight: 10
-  - name: grandson2
-    parent: child2
+  - name: Blog
+    url: blog/
     weight: 20
+  - name: Category
+    url: category/
+    weight: 30
+  - name: Tag
+    url: tags/
+    weight: 40
