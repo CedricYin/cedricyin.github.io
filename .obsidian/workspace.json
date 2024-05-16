@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#MadeWithHugoBlox",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -149,10 +149,14 @@
   },
   "active": "7b2f44c590f9cb99",
   "lastOpenFiles": [
+    "content/tags/_index.md",
+    "content/_index.md",
+    "content/uses.md",
+    "content/blog/teach-courses/index.md",
+    "content/blog/test-post/index.md",
+    "content/authors/admin/_index.md",
     "README.md",
     "LICENSE.md",
-    "content/authors/admin/_index.md",
-    "content/blog/test-post/index.md",
     "2024-05-16.md",
     "content/blog/test-post/Pasted image 20240516102839.png",
     "Pasted image 20240516102740.png",

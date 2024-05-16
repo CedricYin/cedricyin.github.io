@@ -1,16 +1,16 @@
 ---
 title: Cedric Yin
-name_pronunciation: ''
+name_pronunciation: ""
 first_name: Cedric
 last_name: Yin
 status:
   icon: 🫡
 superuser: true
-role: Student/China/INTJ
+role: Student/Computer Science
 organizations:
   - name: USTC & ICT-CAS
     url: ""
-bio: ''
+bio: ""
 profiles:
   - icon: at-symbol
     url: mailto:ysq2023@gmail.com
