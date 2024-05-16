@@ -33,6 +33,12 @@ vector<int> arr{1, 2, 3};
 - 使用花括号{}
 - 会检查narrow conversion
 - 对**任何类型**都能使用uniform initialization
+- asd
+
+- asd 
+- asd 十大
+- 阿松大
+- 阿松大
 
 
 > structured binding (C++**17**)
