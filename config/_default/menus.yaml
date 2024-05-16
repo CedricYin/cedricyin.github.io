@@ -5,13 +5,20 @@ main:
   - name: Home
     url: /
     weight: 10
-  - name: 分类
-    url: tags/
-    weight: 20
   - name: Tags
     identifier: tags
-    weight: 30
-  - name: C/C++
-    parent: tags
-    url: tags/cpp
-    weight: 10
+    weight: 20
+    - name: Programming Language
+      parent: tags
+      identifier: pl
+      weight: 10
+      - name: C/C++
+        parent: Programming Language
+        weight: 10
+      - name: Python
+        parent: Programming Language
+        weight: 20
+    - name: AI
+      parent: tags
+      identifier: ai
+      weight: 20

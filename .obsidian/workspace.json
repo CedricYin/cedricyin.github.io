@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/blog/test-post/index.md",
+                "file": "content/tags/_index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/blog/test-post/index.md",
+                "file": "content/tags/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/blog/test-post/index.md",
+                "file": "content/tags/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/blog/test-post/index.md"
+                "file": "content/tags/_index.md"
               }
             }
           }
@@ -149,12 +149,12 @@
   },
   "active": "7b2f44c590f9cb99",
   "lastOpenFiles": [
+    "content/blog/test-post/index.md",
     "content/tags/_index.md",
     "content/_index.md",
     "content/uses.md",
     "content/blog/_index.md",
     "content/blog/teach-courses/index.md",
-    "content/blog/test-post/index.md",
     "content/blog/second-brain/index.md",
     "content/blog/project-management/index.md",
     "content/blog/get-started/index.md",

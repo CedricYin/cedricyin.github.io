@@ -30,14 +30,5 @@
       ],
       "key": "H"
     }
-  ],
-  "editor:delete-paragraph": [],
-  "editor:insert-callout": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "D"
-    }
   ]
 }
