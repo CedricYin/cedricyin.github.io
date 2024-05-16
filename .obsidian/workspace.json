@@ -13,18 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/blog/SUSTech-CS205-class/index.md",
+                "file": "content/blog/SUSTech-CS205/SUSTech-CS205-class/index.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
-            }
-          },
-          {
-            "id": "53c974b0f0f1f8bc",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ]
@@ -93,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/blog/SUSTech-CS205-class/index.md",
+                "file": "content/blog/SUSTech-CS205/SUSTech-CS205-class/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/blog/SUSTech-CS205-class/index.md",
+                "file": "content/blog/SUSTech-CS205/SUSTech-CS205-class/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/blog/SUSTech-CS205-class/index.md"
+                "file": "content/blog/SUSTech-CS205/SUSTech-CS205-class/index.md"
               }
             }
           }
@@ -157,16 +149,22 @@
   },
   "active": "4e2dd0bb2a16a405",
   "lastOpenFiles": [
+    "content/blog/SUSTech-CS205/_index.md",
+    "content/blog/SUSTech-CS205/SUSTech-CS205-class/index.md",
+    "content/blog/_index.md",
+    "content/blog/mytemplate/index.md",
+    "content/blog/transformer/index.md",
+    "content/blog/get-started/featured.jpg",
+    "content/blog/SUSTech-CS205/basic/未命名.md",
+    "content/blog/SUSTech-CS205/basic",
+    "content/blog/SUSTech-CS205",
     "未命名.md",
-    "content/blog/get-started/index.md",
     "content/blog/SUSTech-CS205-class/未命名.md",
     "content/blog/project-management/index.md",
     "content/blog/test-post/index.md",
     "content/blog/teach-courses/index.md",
     "content/blog/second-brain/index.md",
-    "content/blog/get-started/featured.jpg",
     "content/tags/_index.md",
-    "content/blog/SUSTech-CS205-class/index.md",
     "assets/css/themes/my.css.md",
     "assets/css/themes/my.css",
     "assets/css/themes",
@@ -174,30 +172,24 @@
     "content/categories/_index.md",
     "content/blog/SUSTech-CS205-class/Pasted image 20240516190057.png",
     "content/blog/SUSTech-CS205-class/Pasted image 20240516185927.png",
-    "content/blog/SUSTech-CS205-class",
+    "content/blog/SUSTech-CS205/SUSTech-CS205-class",
     "content/blog/未命名.md",
     "content/categories/ai/transformer/_index.md",
     "content/categories/ai/_index.md",
     "content/categories/ai/transformer",
     "content/categories/未命名",
-    "content/blog/transformer/index.md",
     "content/categories/ai",
     "hugo-blox/blox/all-access/README.md",
     "content/categories",
     "content/blog/ai/transformer/index.md",
     "content/blog/transformer/Pasted image 20240516154540.png",
-    "content/blog/transformer",
     "content/blog/ai/index.md",
     "content/authors/admin/_index.md",
     "content/_index.md",
     "content/blog/data-visualization/index.md",
     "content/authors/_index.md",
     "content/blog/ai/_index.md",
-    "content/blog/_index.md",
     "content/blog/ai/transformer/Pasted image 20240516154540.png",
-    "content/blog/ai/transformer",
-    "content/uses.md",
-    "README.md",
     "content/blog/test-post/Pasted image 20240516102839.png",
     "Pasted image 20240516102740.png",
     "content/blog/test-post/image.png"
