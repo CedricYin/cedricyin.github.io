@@ -6,14 +6,6 @@ main:
     url: /
     weight: 10
   - name: Tags
+    url: tags/
     identifier: tags
-    weight: 20
-  - name: Programming Language
-    parent: tags
-    identifier: pl
-    weight: 10
-  - name: AI
-    parent: tags
-    identifier: ai
-    url: blog/ai/
     weight: 20
