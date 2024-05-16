@@ -1,3 +1,9 @@
+---
+title: class
+tags: 
+categories: SUSTech-CS205
+---
+
 ## 0 basics of class
 
 - c++中，class和struct的区别
