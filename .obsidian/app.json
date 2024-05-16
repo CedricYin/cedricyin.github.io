@@ -1,5 +1,5 @@
 {
   "useMarkdownLinks": true,
   "attachmentFolderPath": "./",
-  "showUnsupportedFiles": false
+  "showUnsupportedFiles": true
 }
