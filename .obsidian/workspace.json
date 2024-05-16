@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/tags/_index.md",
+                "file": "content/blog/ai/transformer/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/tags/_index.md",
+                "file": "content/blog/ai/transformer/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/tags/_index.md",
+                "file": "content/blog/ai/transformer/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/tags/_index.md"
+                "file": "content/blog/ai/transformer/index.md"
               }
             }
           }
@@ -149,9 +149,14 @@
   },
   "active": "7b2f44c590f9cb99",
   "lastOpenFiles": [
-    "content/blog/test-post/index.md",
+    "content/blog/ai/transformer/Pasted image 20240516154540.png",
+    "content/blog/ai/_index.md",
+    "content/blog/ai/transformer/index.md",
+    "content/blog/ai/transformer",
     "content/tags/_index.md",
     "content/_index.md",
+    "content/blog/ai",
+    "content/blog/test-post/index.md",
     "content/uses.md",
     "content/blog/_index.md",
     "content/blog/teach-courses/index.md",
