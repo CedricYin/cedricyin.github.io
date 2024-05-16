@@ -24,17 +24,37 @@ website: ""
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
-  - name: Technical
+  - name: AI
+    items:
+      - name: Deep Learning Basis
+        description: ''
+        percent: 100
+      - name: Pytorch
+        description: ''
+        percent: 60
+      - name: LLM
+        description: ''
+        percent: 20
+      - name: Model compression
+        description: ''
+        percent: 20
+  - name: System
     items:
       - name: C/C++
         description: ''
         percent: 80
-      - name: Machine Learning
+      - name: CUDA C++
         description: ''
-        percent: 60
-      - name: High Performance Computing
+        percent: 70
+      - name: Architecture
         description: ''
         percent: 80
+      - name: OS
+        description: ''
+        percent: 80
+      - name: Compiler
+        description: ''
+        percent: 30
 ---
 
 好记性不如烂笔头，此博客用于记录自己的学习过程，大部分内容只是一些**总结式的、对我个人来说比较有用的**课堂笔记、文章笔记等。

@@ -14,7 +14,7 @@ sections:
         style: 'text-align: justify; font-size: 0.8em;'
   - block: resume-skills
     content:
-      title: Primary Skills
+      title: Main Technology Stack
       # Note: `username` refers to the user's folder name in `content/authors/`
       username: admin
 ---
