@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/blog/SUSTech-CS205-class/index.md",
+                "file": "content/categories/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/blog/SUSTech-CS205-class/index.md",
+                "file": "content/categories/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/blog/SUSTech-CS205-class/index.md",
+                "file": "content/categories/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/blog/SUSTech-CS205-class/index.md"
+                "file": "content/categories/index.md"
               }
             }
           }
@@ -149,10 +149,10 @@
   },
   "active": "e4156d505f1ddaf1",
   "lastOpenFiles": [
+    "content/blog/SUSTech-CS205-class/index.md",
+    "content/categories/index.md",
     "content/blog/SUSTech-CS205-class/Pasted image 20240516190057.png",
     "content/blog/SUSTech-CS205-class/Pasted image 20240516185927.png",
-    "content/categories/index.md",
-    "content/blog/SUSTech-CS205-class/index.md",
     "content/blog/SUSTech-CS205-class",
     "content/blog/未命名.md",
     "content/categories/ai/transformer/_index.md",
