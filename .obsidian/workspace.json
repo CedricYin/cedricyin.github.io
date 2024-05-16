@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/blog/ai/transformer/index.md",
+                "file": "content/blog/ai/_index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/blog/ai/transformer/index.md",
+                "file": "content/blog/ai/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/blog/ai/transformer/index.md",
+                "file": "content/blog/ai/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/blog/ai/transformer/index.md"
+                "file": "content/blog/ai/_index.md"
               }
             }
           }
@@ -149,9 +149,9 @@
   },
   "active": "7b2f44c590f9cb99",
   "lastOpenFiles": [
+    "content/blog/ai/transformer/index.md",
     "content/blog/project-management/index.md",
     "content/blog/data-visualization/index.md",
-    "content/blog/ai/transformer/index.md",
     "content/blog/ai/transformer/Pasted image 20240516154540.png",
     "content/blog/ai/_index.md",
     "content/blog/ai/transformer",
