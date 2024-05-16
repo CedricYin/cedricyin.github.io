@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/blog/ai/_index.md",
+                "file": "content/authors/admin/_index.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:Markdown",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/blog/ai/_index.md",
+                "file": "content/authors/admin/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/blog/ai/_index.md",
+                "file": "content/authors/admin/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/blog/ai/_index.md"
+                "file": "content/authors/admin/_index.md"
               }
             }
           }
@@ -150,22 +150,22 @@
   "active": "a21d234451260cfa",
   "lastOpenFiles": [
     "content/_index.md",
-    "content/tags/_index.md",
+    "content/blog/data-visualization/index.md",
+    "content/blog/project-management/index.md",
+    "content/blog/second-brain/index.md",
+    "content/blog/get-started/index.md",
+    "content/blog/teach-courses/index.md",
     "content/authors/admin/_index.md",
     "content/authors/_index.md",
     "content/blog/ai/_index.md",
+    "content/tags/_index.md",
     "content/blog/_index.md",
     "content/blog/ai/transformer/index.md",
-    "content/blog/project-management/index.md",
-    "content/blog/data-visualization/index.md",
     "content/blog/ai/transformer/Pasted image 20240516154540.png",
     "content/blog/ai/transformer",
     "content/blog/ai",
     "content/blog/test-post/index.md",
     "content/uses.md",
-    "content/blog/teach-courses/index.md",
-    "content/blog/second-brain/index.md",
-    "content/blog/get-started/index.md",
     "README.md",
     "LICENSE.md",
     "2024-05-16.md",

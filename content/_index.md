@@ -1,6 +1,6 @@
 ---
 title: 'Home'
-date: 2023-10-24
+date: 2024-05-16
 type: landing
 sections:
   - block: resume-biography
@@ -12,12 +12,9 @@ sections:
         padding: [0, 0, 0, 0]
       biography:
         style: 'text-align: justify; font-size: 0.8em;'
-  - block: collection
+  - block: resume-skills
     content:
-      filters:
-        folders:
-          - blog
-    design:
-      spacing:
-        padding: ['3rem', 0, '6rem', 0]
+      title: Skills & Hobbies
+      # Note: `username` refers to the user's folder name in `content/authors/`
+      username: admin
 ---
