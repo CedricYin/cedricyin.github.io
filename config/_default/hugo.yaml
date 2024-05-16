@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: "Cedric Yin" # Website name
-baseURL: 'https://cedricyin.life/' # Website URL
+baseURL: 'https://cedricyin.site/' # Website URL
 
 ############################
 ## PAGE OPTIONS
@@ -16,7 +16,7 @@ cascade:
       path: /blog/**
       kind: page
     pager: true
-    editable: true
+    editable: false
     hide_date: false
     show_date_updated: true
     reading_time: true
