@@ -24,5 +24,7 @@
   --color-secondary-800: 21 94 117;
   --color-secondary-900: 22 78 99;
   --color-secondary-950: 8 51 68;
-  style: 'text-align: justify; font-size: 0.8em;'
+  
+  text-align: justify; 
+  font-size: 0.8em;
 }
