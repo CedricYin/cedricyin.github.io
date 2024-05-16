@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/blog/get-started/index.md",
+                "file": "content/tags/_index.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/blog/get-started/index.md",
+                "file": "content/tags/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/blog/get-started/index.md",
+                "file": "content/tags/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/blog/get-started/index.md"
+                "file": "content/tags/_index.md"
               }
             }
           }
@@ -149,11 +149,14 @@
   },
   "active": "a21d234451260cfa",
   "lastOpenFiles": [
+    "content/categories/_index.md",
+    "content/tags/_index.md",
+    "content/categories",
+    "content/blog/get-started/index.md",
     "content/blog/ai/transformer/index.md",
     "content/blog/transformer/Pasted image 20240516154540.png",
     "content/blog/transformer/index.md",
     "content/blog/transformer",
-    "content/blog/get-started/index.md",
     "content/blog/ai/index.md",
     "content/authors/admin/_index.md",
     "content/_index.md",
@@ -163,7 +166,6 @@
     "content/blog/teach-courses/index.md",
     "content/authors/_index.md",
     "content/blog/ai/_index.md",
-    "content/tags/_index.md",
     "content/blog/_index.md",
     "content/blog/ai/transformer/Pasted image 20240516154540.png",
     "content/blog/ai/transformer",
