@@ -1,8 +1,8 @@
 ---
 title: Cedric Yin
 name_pronunciation: Cedric Yin
-first_name: Cedric
-last_name: Yin
+first_name: "''"
+last_name: "''"
 status:
   icon: 🫡
 superuser: true
