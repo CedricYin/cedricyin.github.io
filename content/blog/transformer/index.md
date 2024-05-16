@@ -3,7 +3,7 @@ title: Transformer
 date: 2024-05-16
 tags:
   - AI
-categories: "transformer", "ai"
+categories: transformer
 ---
 
 
