@@ -8,17 +8,17 @@ main:
   - name: Tags
     identifier: tags
     weight: 20
-    - name: Programming Language
-      parent: tags
-      identifier: pl
-      weight: 10
-      - name: C/C++
-        parent: Programming Language
-        weight: 10
-      - name: Python
-        parent: Programming Language
-        weight: 20
-    - name: AI
-      parent: tags
-      identifier: ai
-      weight: 20
+  - name: Programming Language
+    parent: tags
+    identifier: pl
+    weight: 10
+  - name: C/C++
+    parent: Programming Language
+    weight: 10
+  - name: Python
+    parent: Programming Language
+    weight: 20
+  - name: AI
+    parent: tags
+    identifier: ai
+    weight: 20
