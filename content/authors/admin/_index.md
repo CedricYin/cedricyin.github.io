@@ -15,8 +15,7 @@ profiles:
   - icon: at-symbol
     url: mailto:ysq2023@gmail.com
     label: E-mail Me
-  - icon: github
-    icon_pack: fab
+  - icon: ''
     url: https://github.com/CedricYin
     label: github
 highlight_name: true
