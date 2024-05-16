@@ -1,5 +1,5 @@
 ---
-title: Cedric's Blog
+title: Cedric Yin
 name_pronunciation: Cedric Yin
 first_name: Cedric
 last_name: Yin
