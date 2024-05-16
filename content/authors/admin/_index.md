@@ -41,7 +41,7 @@ skills:
         percent: 20
       - name: AI Compiler
         description: ''
-        percent: 0
+        percent: 5
   - name: ''
     items:
       - name: Python
