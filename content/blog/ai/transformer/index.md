@@ -1,3 +1,11 @@
+---
+title: Transformer
+date: 2024-05-16
+tags:
+  - AI
+---
+
+
 
 学习资源：
 - [transformer详解](https://jalammar.github.io/illustrated-transformer/)
@@ -11,5 +19,3 @@ Transformer是一种seq2seq模型，主要使用了**self-attention**机制，�
 **多头**自注意力机制是什么？由多组QKV组成，每一组QKV可以考虑不同的信息。
 
 **位置信息**，在embedding层后需要对输出向量的每个元素加上一个人工标注的位置信息，使得保留时序性。（为什么要加？因为自注意力机制本质上不考虑时序）另外，位置信息是**非学习参数**
-
-![](Pasted%20image%2020240516154540.png)
