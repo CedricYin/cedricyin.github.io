@@ -8,7 +8,7 @@ main:
   - name: Blog
     url: blog/
     weight: 20
-  - name: Category
+  - name: Categories
     url: category/
     weight: 30
   - name: Tag
