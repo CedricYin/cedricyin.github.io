@@ -11,6 +11,6 @@ main:
   - name: Categories
     url: categories/
     weight: 30
-  - name: Tag
+  - name: Tags
     url: tags/
     weight: 40

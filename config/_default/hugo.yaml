@@ -28,6 +28,7 @@ cascade:
     header:
       navbar:
         enable: true
+        align: "left"
 
 ############################
 ## LANGUAGE

@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/blog/get-started/index.md",
+                "file": "content/blog/ai/transformer/index.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/blog/get-started/index.md",
+                "file": "content/blog/ai/transformer/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/blog/get-started/index.md",
+                "file": "content/blog/ai/transformer/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/blog/get-started/index.md"
+                "file": "content/blog/ai/transformer/index.md"
               }
             }
           }
@@ -147,15 +147,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f66068f936e041f4",
+  "active": "a21d234451260cfa",
   "lastOpenFiles": [
+    "content/blog/get-started/index.md",
     "content/blog/ai/index.md",
     "content/authors/admin/_index.md",
     "content/_index.md",
     "content/blog/data-visualization/index.md",
     "content/blog/project-management/index.md",
     "content/blog/second-brain/index.md",
-    "content/blog/get-started/index.md",
     "content/blog/teach-courses/index.md",
     "content/authors/_index.md",
     "content/blog/ai/_index.md",
