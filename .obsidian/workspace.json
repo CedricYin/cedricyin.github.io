@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/blog/test-post/index.md",
+                "file": "content/authors/admin/_index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/blog/test-post/index.md",
+                "file": "content/authors/admin/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/blog/test-post/index.md",
+                "file": "content/authors/admin/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/blog/test-post/index.md"
+                "file": "content/authors/admin/_index.md"
               }
             }
           }
@@ -134,7 +134,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,10 +147,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "bed3de71bdc03db2",
+  "active": "226286c370c7e448",
   "lastOpenFiles": [
-    "2024-05-16.md",
     "content/blog/test-post/index.md",
+    "2024-05-16.md",
     "content/blog/test-post/Pasted image 20240516102839.png",
     "Pasted image 20240516102740.png",
     "content/blog/test-post/image.png"
