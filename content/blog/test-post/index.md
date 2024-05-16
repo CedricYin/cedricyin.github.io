@@ -16,3 +16,6 @@ int main() {
 
 img
 ![alt text](image.png)
+
+img2
+![](Pasted%20image%2020240516102839.png)
