@@ -25,7 +25,7 @@ website: ""
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
-  - name: AI
+  - name: ''
     items:
       - name: Deep Learning Basis
         description: ''
@@ -39,8 +39,14 @@ skills:
       - name: Model compression
         description: ''
         percent: 20
-  - name: System
+      - name: AI Compiler
+        description: ''
+        percent: 0
+  - name: ''
     items:
+      - name: Python
+        description: ''
+        percent: 80
       - name: C/C++
         description: ''
         percent: 80
