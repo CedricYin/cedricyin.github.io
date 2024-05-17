@@ -2,7 +2,7 @@
 title: hello world
 date: 2024-05-16
 tags:
-  - workflow
+  - WorkFlow
 summary: 测试第一篇博客上传
 image:
 ---

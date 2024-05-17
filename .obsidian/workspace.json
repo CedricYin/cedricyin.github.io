@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/blog/uiuc-ece408/15-reduction-trees/index.md",
+                "file": "content/blog/helloworld/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:workflow",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/blog/uiuc-ece408/15-reduction-trees/index.md",
+                "file": "content/blog/helloworld/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/blog/uiuc-ece408/15-reduction-trees/index.md",
+                "file": "content/blog/helloworld/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/blog/uiuc-ece408/15-reduction-trees/index.md"
+                "file": "content/blog/helloworld/index.md"
               }
             }
           }
@@ -148,8 +149,8 @@
   },
   "active": "5b6a1567d7af5af8",
   "lastOpenFiles": [
-    "content/categories/index.md",
     "content/blog/uiuc-ece408/15-reduction-trees/index.md",
+    "content/categories/index.md",
     "content/blog/uiuc-ece408/_index.md",
     "content/categories",
     "content/blog/_index.md",
