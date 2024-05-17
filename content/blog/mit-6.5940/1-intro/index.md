@@ -55,7 +55,7 @@ LLM的**提示工程**相关的知识
 - **zero-shot，one-shot，two-shot**对应给LLM正确**示例**的数量，shot越多意味着LLM之后的推理准确度会越高，但同时推理会越慢（因为输入变多了）
 - 思维链**chain-of-thought**：给LLM的正确示例的prompt中，正确答案要附上理由，告诉LLM为什么答案是这个
 	- 这个prompt技巧可以大大提升LLM的推理准确性
-	- 使LLM能做到chain-of-thought的前提是，**模型必须足够大，参数必须足够多**，以达到**涌现**emergent**
+	- 使LLM能做到chain-of-thought的前提是，**模型必须足够大，参数必须足够多**，以达到**涌现emergent**
 
 
 
