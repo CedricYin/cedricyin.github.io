@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/blog/chatgpt原理与应用开发/1章-基础知识/index.md",
+                "file": "content/categories/_index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/blog/chatgpt原理与应用开发/1章-基础知识/index.md",
+                "file": "content/categories/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/blog/chatgpt原理与应用开发/1章-基础知识/index.md",
+                "file": "content/categories/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/blog/chatgpt原理与应用开发/1章-基础知识/index.md"
+                "file": "content/categories/_index.md"
               }
             }
           }
@@ -148,18 +148,18 @@
   },
   "active": "b2d3c8f089ba174c",
   "lastOpenFiles": [
-    "content/blog/chatgpt原理与应用开发/_index.md",
+    "content/blog/_index.md",
     "content/blog/chatgpt原理与应用开发/1章-基础知识/index.md",
+    "content/blog/chatgpt原理与应用开发/_index.md",
+    "content/categories/_index.md",
     "content/blog/chatgpt原理与应用开发/1章-基础知识",
     "content/blog/uiuc-ece408/_index.md",
     "content/blog/chatgpt原理与应用开发",
     "content/blog/uiuc-ece408/15-reduction-trees/index.md",
-    "content/categories/_index.md",
     "content/tags/_index.md",
     "content/_index.md",
     "content/blog/helloworld/index.md",
     "content/categories",
-    "content/blog/_index.md",
     "content/blog/uiuc-ece408/15-reduction-trees",
     "content/blog/uiuc-ece408",
     "content/blog/helloworld/Pasted image 20240516205354.png",
@@ -186,7 +186,6 @@
     "content/blog/second-brain/index.md",
     "assets/css/themes/my.css.md",
     "assets/css/themes/my.css",
-    "content/categories/_index.md",
     "content/blog/SUSTech-CS205-class/Pasted image 20240516190057.png",
     "content/blog/SUSTech-CS205-class/Pasted image 20240516185927.png",
     "content/blog/未命名.md",
