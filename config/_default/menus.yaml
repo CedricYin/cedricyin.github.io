@@ -5,6 +5,9 @@ main:
   - name: Home
     url: /
     weight: 10
+  - name: categories
+    url: categories/
+    weight: 20
   - name: Tags
     url: tags/
-    weight: 20
+    weight: 30

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/blog/uiuc-ece408/15-reduction-trees/index.md",
+                "file": "content/categories/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/blog/uiuc-ece408/15-reduction-trees/index.md",
+                "file": "content/categories/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/blog/uiuc-ece408/15-reduction-trees/index.md",
+                "file": "content/categories/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/blog/uiuc-ece408/15-reduction-trees/index.md"
+                "file": "content/categories/index.md"
               }
             }
           }
@@ -149,7 +149,10 @@
   "active": "5b6a1567d7af5af8",
   "lastOpenFiles": [
     "content/blog/uiuc-ece408/_index.md",
+    "content/categories/index.md",
+    "content/categories",
     "content/blog/uiuc-ece408/15-reduction-trees/index.md",
+    "content/blog/_index.md",
     "content/blog/uiuc-ece408/15-reduction-trees",
     "content/blog/helloworld/index.md",
     "content/blog/uiuc-ece408",
@@ -159,7 +162,6 @@
     "content/authors/admin/_index.md",
     "content/blog/helloworld",
     "content/authors/admin/avatar.png",
-    "content/blog/_index.md",
     "content/blog/SUSTech-CS205/basic/index.md",
     "content/blog/SUSTech-CS205/class/index.md",
     "content/blog/SUSTech-CS205/basic",
@@ -184,14 +186,12 @@
     "content/categories/_index.md",
     "content/blog/SUSTech-CS205-class/Pasted image 20240516190057.png",
     "content/blog/SUSTech-CS205-class/Pasted image 20240516185927.png",
-    "content/blog/SUSTech-CS205/class",
     "content/blog/未命名.md",
     "content/categories/ai/transformer/_index.md",
     "content/categories/ai/_index.md",
     "hugo-blox/blox/all-access/README.md",
     "content/blog/ai/transformer/index.md",
     "content/blog/transformer/Pasted image 20240516154540.png",
-    "content/blog/ai/index.md",
     "content/blog/ai/transformer/Pasted image 20240516154540.png",
     "content/blog/test-post/Pasted image 20240516102839.png"
   ]
