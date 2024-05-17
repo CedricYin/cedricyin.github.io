@@ -1,5 +1,5 @@
 ---
-title: Lec1: Intro
+title: "Lec1: Intro"
 date: 2024-05-17
 tags:
   - MIT-6.5940
