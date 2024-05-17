@@ -5,7 +5,7 @@ tags:
   - MIT-6.5940
   - AI
   - AI Sys
-summary: 
+summary: 概述了高效深度学习系统尤其是模型压缩技术的必要性，列举了近期热门的大模型应用
 image:
 ---
 ## 课程概述
