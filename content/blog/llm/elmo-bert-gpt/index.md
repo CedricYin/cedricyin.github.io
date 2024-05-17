@@ -8,7 +8,7 @@ image:
 ---
 [资源](https://www.youtube.com/watch?v=UYPa347-DdE&list=PLJV_el3uVTsOK_ZK5L0Iv_EQoL1JefRL4&index=62)
 
-下面的nei主要是一些简单理解
+下面的内容主要是一些简单的直觉上的理解，具体的模型架构和算法需要去看别的参考资料或论文
 
 ---
 
