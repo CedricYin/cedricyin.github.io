@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/blog/mit-6.5940/1-intro/index.md",
+                "file": "content/categories/_index.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "634d99f82ee1fd9c",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/blog/mit-6.5940/1-intro/index.md",
+                "file": "content/categories/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/blog/mit-6.5940/1-intro/index.md",
+                "file": "content/categories/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/blog/mit-6.5940/1-intro/index.md"
+                "file": "content/categories/_index.md"
               }
             }
           }
@@ -149,14 +148,14 @@
   },
   "active": "c3e8803f0e3c9856",
   "lastOpenFiles": [
-    "content/blog/mit-6.5940/_index.md",
     "content/blog/mit-6.5940/1-intro/index.md",
+    "content/categories/_index.md",
+    "content/blog/mit-6.5940/_index.md",
     "content/blog/mit-6.5940/1-intro",
     "content/blog/uiuc-ece408/_index.md",
     "content/blog/llm/elmo-bert-gpt/index.md",
     "content/blog/mit-6.5940",
     "content/blog/chatgpt原理与应用开发/1章-基础知识/index.md",
-    "content/categories/_index.md",
     "content/blog/从零开始大模型开发与微调/1-人工智能与大模型概述/index.md",
     "content/blog/llm/_index.md",
     "content/blog/llm/elmo-bert-gpt/Pasted image 20240517163110.png",
