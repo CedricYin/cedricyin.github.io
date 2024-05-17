@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/tags/_index.md",
+                "file": "content/categories/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/tags/_index.md",
+                "file": "content/categories/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/tags/_index.md",
+                "file": "content/categories/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/tags/_index.md"
+                "file": "content/categories/index.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "5b6a1567d7af5af8",
   "lastOpenFiles": [
+    "content/tags/_index.md",
     "content/_index.md",
     "content/categories/index.md",
     "content/blog/helloworld/index.md",
@@ -179,7 +180,6 @@
     "content/blog/test-post/index.md",
     "content/blog/teach-courses/index.md",
     "content/blog/second-brain/index.md",
-    "content/tags/_index.md",
     "assets/css/themes/my.css.md",
     "assets/css/themes/my.css",
     "assets/css/themes",
