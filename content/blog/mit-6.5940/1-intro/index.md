@@ -1,7 +1,10 @@
 ---
 title: intro
 date: 2024-05-17
-tags: 
+tags:
+  - MIT-6.5940
+  - AI
+  - AI Sys
 summary: 
 image:
 ---

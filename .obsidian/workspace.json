@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/blog/mit-6.5940/_index.md",
+                "file": "content/blog/mit-6.5940/1-intro/index.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:workflow",
+                "query": "tag:mit6.5940",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/blog/mit-6.5940/_index.md",
+                "file": "content/blog/mit-6.5940/1-intro/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/blog/mit-6.5940/_index.md",
+                "file": "content/blog/mit-6.5940/1-intro/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/blog/mit-6.5940/_index.md"
+                "file": "content/blog/mit-6.5940/1-intro/index.md"
               }
             }
           }
@@ -148,9 +148,10 @@
   },
   "active": "c3e8803f0e3c9856",
   "lastOpenFiles": [
-    "content/categories/_index.md",
+    "content/blog/uiuc-ece408/15-reduction-trees/index.md",
     "content/blog/mit-6.5940/1-intro/index.md",
     "content/blog/mit-6.5940/_index.md",
+    "content/categories/_index.md",
     "content/blog/mit-6.5940/1-intro",
     "content/blog/uiuc-ece408/_index.md",
     "content/blog/llm/elmo-bert-gpt/index.md",
@@ -169,7 +170,6 @@
     "content/blog/llm/elmo-bert-gpt",
     "content/blog/llm",
     "content/blog/_index.md",
-    "content/blog/uiuc-ece408/15-reduction-trees/index.md",
     "content/blog/chatgpt原理与应用开发/_index.md",
     "content/blog/chatgpt原理与应用开发/1章-基础知识",
     "content/blog/chatgpt原理与应用开发",
