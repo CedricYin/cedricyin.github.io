@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/categories/_index.md",
+                "file": "content/blog/chatgpt原理与应用开发/1章-基础知识/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "634d99f82ee1fd9c",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/categories/_index.md",
+                "file": "content/blog/chatgpt原理与应用开发/1章-基础知识/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/categories/_index.md",
+                "file": "content/blog/chatgpt原理与应用开发/1章-基础知识/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/categories/_index.md"
+                "file": "content/blog/chatgpt原理与应用开发/1章-基础知识/index.md"
               }
             }
           }
@@ -134,7 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 230.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,10 +149,10 @@
   },
   "active": "b2d3c8f089ba174c",
   "lastOpenFiles": [
-    "content/blog/_index.md",
-    "content/blog/chatgpt原理与应用开发/1章-基础知识/index.md",
     "content/blog/chatgpt原理与应用开发/_index.md",
     "content/categories/_index.md",
+    "content/blog/chatgpt原理与应用开发/1章-基础知识/index.md",
+    "content/blog/_index.md",
     "content/blog/chatgpt原理与应用开发/1章-基础知识",
     "content/blog/uiuc-ece408/_index.md",
     "content/blog/chatgpt原理与应用开发",
