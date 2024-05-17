@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/blog/uiuc-ece408/_index.md",
+                "file": "content/blog/uiuc-ece408/15-reduction-trees/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/blog/uiuc-ece408/_index.md",
+                "file": "content/blog/uiuc-ece408/15-reduction-trees/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/blog/uiuc-ece408/_index.md",
+                "file": "content/blog/uiuc-ece408/15-reduction-trees/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/blog/uiuc-ece408/_index.md"
+                "file": "content/blog/uiuc-ece408/15-reduction-trees/index.md"
               }
             }
           }
@@ -149,9 +149,9 @@
   "active": "5b6a1567d7af5af8",
   "lastOpenFiles": [
     "content/categories/index.md",
+    "content/blog/uiuc-ece408/15-reduction-trees/index.md",
     "content/blog/uiuc-ece408/_index.md",
     "content/categories",
-    "content/blog/uiuc-ece408/15-reduction-trees/index.md",
     "content/blog/_index.md",
     "content/blog/uiuc-ece408/15-reduction-trees",
     "content/blog/helloworld/index.md",
