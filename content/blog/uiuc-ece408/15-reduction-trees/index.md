@@ -6,4 +6,4 @@ tags:
 summary: reduce算子优化基本原理
 image:
 ---
-hello world
+
