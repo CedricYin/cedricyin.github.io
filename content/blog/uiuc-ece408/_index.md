@@ -1,5 +1,5 @@
 ---
-title: UIUC-ECE408-Applied Parallel Programming
+title: UIUC-ECE408
 ---
 资源：
 [实验](https://github.com/aschuh703/ECE408/tree/Fall-22)
