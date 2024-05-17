@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/categories/_index.md",
+                "file": "content/blog/mit-6.5940/_index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/categories/_index.md",
+                "file": "content/blog/mit-6.5940/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/categories/_index.md",
+                "file": "content/blog/mit-6.5940/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/categories/_index.md"
+                "file": "content/blog/mit-6.5940/_index.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "c3e8803f0e3c9856",
   "lastOpenFiles": [
-    "content/blog/mit-6.5940/1-intro/index.md",
     "content/categories/_index.md",
+    "content/blog/mit-6.5940/1-intro/index.md",
     "content/blog/mit-6.5940/_index.md",
     "content/blog/mit-6.5940/1-intro",
     "content/blog/uiuc-ece408/_index.md",
