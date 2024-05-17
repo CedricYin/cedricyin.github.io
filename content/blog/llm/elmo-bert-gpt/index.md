@@ -8,7 +8,9 @@ image:
 ---
 [资源](https://www.youtube.com/watch?v=UYPa347-DdE&list=PLJV_el3uVTsOK_ZK5L0Iv_EQoL1JefRL4&index=62)
 
->下面主要是一些简单理解：
+下面的nei主要是一些简单理解
+
+---
 
 ## ELMO
 

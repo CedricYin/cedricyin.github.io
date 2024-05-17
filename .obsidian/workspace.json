@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/categories/_index.md",
+                "file": "content/blog/llm/elmo-bert-gpt/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "634d99f82ee1fd9c",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/categories/_index.md",
+                "file": "content/blog/llm/elmo-bert-gpt/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/categories/_index.md",
+                "file": "content/blog/llm/elmo-bert-gpt/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/categories/_index.md"
+                "file": "content/blog/llm/elmo-bert-gpt/index.md"
               }
             }
           }
@@ -148,17 +149,17 @@
   },
   "active": "c3e8803f0e3c9856",
   "lastOpenFiles": [
-    "content/blog/llm/elmo-bert-gpt/index.md",
-    "content/categories/_index.md",
-    "content/blog/llm/_index.md",
     "content/blog/chatgpt原理与应用开发/1章-基础知识/index.md",
+    "content/categories/_index.md",
+    "content/blog/从零开始大模型开发与微调/1-人工智能与大模型概述/index.md",
+    "content/blog/llm/elmo-bert-gpt/index.md",
+    "content/blog/llm/_index.md",
     "content/blog/llm/elmo-bert-gpt/Pasted image 20240517163110.png",
     "content/blog/llm/elmo-bert-gpt/Pasted image 20240517162224.png",
     "content/blog/llm/elmo-bert-gpt/Pasted image 20240517162139.png",
     "content/blog/llm/elmo-bert-gpt/Pasted image 20240517160352.png",
     "content/blog/llm/elmo-bert-gpt/Pasted image 20240517155715.png",
     "content/blog/从零开始大模型开发与微调/_index.md",
-    "content/blog/从零开始大模型开发与微调/1-人工智能与大模型概述/index.md",
     "content/blog/从零开始大模型开发与微调/1-人工智能与大模型概述",
     "content/blog/从零开始大模型开发与微调",
     "content/blog/llm/elmo-bert-gpt",
