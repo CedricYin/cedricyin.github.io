@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a6f46212380e9ba6",
+        "id": "f0c5f98a988c8a71",
         "type": "tabs",
         "children": [
           {
-            "id": "b2d3c8f089ba174c",
+            "id": "c3e8803f0e3c9856",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/blog/chatgpt原理与应用开发/1章-基础知识/index.md",
+                "file": "content/categories/_index.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "634d99f82ee1fd9c",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/blog/chatgpt原理与应用开发/1章-基础知识/index.md",
+                "file": "content/categories/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/blog/chatgpt原理与应用开发/1章-基础知识/index.md",
+                "file": "content/categories/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/blog/chatgpt原理与应用开发/1章-基础知识/index.md"
+                "file": "content/categories/_index.md"
               }
             }
           }
@@ -147,16 +146,29 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b2d3c8f089ba174c",
+  "active": "c3e8803f0e3c9856",
   "lastOpenFiles": [
-    "content/blog/chatgpt原理与应用开发/_index.md",
+    "content/blog/llm/elmo-bert-gpt/index.md",
     "content/categories/_index.md",
+    "content/blog/llm/_index.md",
     "content/blog/chatgpt原理与应用开发/1章-基础知识/index.md",
+    "content/blog/llm/elmo-bert-gpt/Pasted image 20240517163110.png",
+    "content/blog/llm/elmo-bert-gpt/Pasted image 20240517162224.png",
+    "content/blog/llm/elmo-bert-gpt/Pasted image 20240517162139.png",
+    "content/blog/llm/elmo-bert-gpt/Pasted image 20240517160352.png",
+    "content/blog/llm/elmo-bert-gpt/Pasted image 20240517155715.png",
+    "content/blog/从零开始大模型开发与微调/_index.md",
+    "content/blog/从零开始大模型开发与微调/1-人工智能与大模型概述/index.md",
+    "content/blog/从零开始大模型开发与微调/1-人工智能与大模型概述",
+    "content/blog/从零开始大模型开发与微调",
+    "content/blog/llm/elmo-bert-gpt",
+    "content/blog/llm",
     "content/blog/_index.md",
-    "content/blog/chatgpt原理与应用开发/1章-基础知识",
-    "content/blog/uiuc-ece408/_index.md",
-    "content/blog/chatgpt原理与应用开发",
     "content/blog/uiuc-ece408/15-reduction-trees/index.md",
+    "content/blog/uiuc-ece408/_index.md",
+    "content/blog/chatgpt原理与应用开发/_index.md",
+    "content/blog/chatgpt原理与应用开发/1章-基础知识",
+    "content/blog/chatgpt原理与应用开发",
     "content/tags/_index.md",
     "content/_index.md",
     "content/blog/helloworld/index.md",
@@ -171,28 +183,15 @@
     "content/authors/admin/avatar.png",
     "content/blog/SUSTech-CS205/basic/index.md",
     "content/blog/SUSTech-CS205/class/index.md",
-    "content/blog/SUSTech-CS205/basic",
     "content/blog/SUSTech-CS205/_index.md",
     "content/blog/mytemplate/index.md",
     "content/blog/transformer/index.md",
     "content/blog/get-started/featured.jpg",
     "content/blog/SUSTech-CS205/basic/未命名.md",
-    "content/blog/SUSTech-CS205/basic",
-    "content/blog/SUSTech-CS205",
     "未命名.md",
     "content/blog/SUSTech-CS205-class/未命名.md",
     "content/blog/project-management/index.md",
     "content/blog/test-post/index.md",
-    "content/blog/teach-courses/index.md",
-    "content/blog/second-brain/index.md",
-    "assets/css/themes/my.css.md",
-    "assets/css/themes/my.css",
-    "content/blog/SUSTech-CS205-class/Pasted image 20240516190057.png",
-    "content/blog/SUSTech-CS205-class/Pasted image 20240516185927.png",
-    "content/blog/未命名.md",
-    "content/categories/ai/transformer/_index.md",
-    "content/blog/transformer/Pasted image 20240516154540.png",
-    "content/blog/ai/transformer/Pasted image 20240516154540.png",
-    "content/blog/test-post/Pasted image 20240516102839.png"
+    "content/blog/teach-courses/index.md"
   ]
 }
