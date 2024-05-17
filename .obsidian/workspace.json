@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/blog/llm/elmo-bert-gpt/index.md",
+                "file": "content/blog/mit-6.5940/1-intro/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/blog/llm/elmo-bert-gpt/index.md",
+                "file": "content/blog/mit-6.5940/1-intro/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/blog/llm/elmo-bert-gpt/index.md",
+                "file": "content/blog/mit-6.5940/1-intro/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/blog/llm/elmo-bert-gpt/index.md"
+                "file": "content/blog/mit-6.5940/1-intro/index.md"
               }
             }
           }
@@ -149,10 +149,15 @@
   },
   "active": "c3e8803f0e3c9856",
   "lastOpenFiles": [
+    "content/blog/mit-6.5940/_index.md",
+    "content/blog/mit-6.5940/1-intro/index.md",
+    "content/blog/mit-6.5940/1-intro",
+    "content/blog/uiuc-ece408/_index.md",
+    "content/blog/llm/elmo-bert-gpt/index.md",
+    "content/blog/mit-6.5940",
     "content/blog/chatgpt原理与应用开发/1章-基础知识/index.md",
     "content/categories/_index.md",
     "content/blog/从零开始大模型开发与微调/1-人工智能与大模型概述/index.md",
-    "content/blog/llm/elmo-bert-gpt/index.md",
     "content/blog/llm/_index.md",
     "content/blog/llm/elmo-bert-gpt/Pasted image 20240517163110.png",
     "content/blog/llm/elmo-bert-gpt/Pasted image 20240517162224.png",
@@ -166,7 +171,6 @@
     "content/blog/llm",
     "content/blog/_index.md",
     "content/blog/uiuc-ece408/15-reduction-trees/index.md",
-    "content/blog/uiuc-ece408/_index.md",
     "content/blog/chatgpt原理与应用开发/_index.md",
     "content/blog/chatgpt原理与应用开发/1章-基础知识",
     "content/blog/chatgpt原理与应用开发",
@@ -175,12 +179,10 @@
     "content/blog/helloworld/index.md",
     "content/categories",
     "content/blog/uiuc-ece408/15-reduction-trees",
-    "content/blog/uiuc-ece408",
     "content/blog/helloworld/Pasted image 20240516205354.png",
     "content/blog/helloworld/Pasted image 20240516212032.png",
     "content/blog/helloworld/Pasted image 20240516211905.png",
     "content/authors/admin/_index.md",
-    "content/blog/helloworld",
     "content/authors/admin/avatar.png",
     "content/blog/SUSTech-CS205/basic/index.md",
     "content/blog/SUSTech-CS205/class/index.md",
@@ -192,7 +194,6 @@
     "未命名.md",
     "content/blog/SUSTech-CS205-class/未命名.md",
     "content/blog/project-management/index.md",
-    "content/blog/test-post/index.md",
-    "content/blog/teach-courses/index.md"
+    "content/blog/test-post/index.md"
   ]
 }
