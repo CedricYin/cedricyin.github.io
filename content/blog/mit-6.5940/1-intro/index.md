@@ -4,7 +4,7 @@ date: 2024-05-17
 tags:
   - MIT-6.5940
   - AI
-  - AI Sys
+  - AI-Sys
 summary: 课程概述，以及概述了高效深度学习系统尤其是模型压缩技术的必要性
 image:
 ---

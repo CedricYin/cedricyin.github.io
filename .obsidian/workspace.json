@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/blog/mit-6.5940/2-神经网络基础/index.md",
+                "file": "content/categories/_index.md",
                 "mode": "source",
                 "source": true
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:mit6.5940",
+                "query": "tag:MIT-65940",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/blog/mit-6.5940/2-神经网络基础/index.md",
+                "file": "content/categories/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/blog/mit-6.5940/2-神经网络基础/index.md",
+                "file": "content/categories/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/blog/mit-6.5940/2-神经网络基础/index.md"
+                "file": "content/categories/_index.md"
               }
             }
           }
