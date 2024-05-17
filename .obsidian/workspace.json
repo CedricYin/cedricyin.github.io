@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/blog/mit-6.5940/1-intro/index.md",
+                "file": "content/blog/mit-6.5940/2-神经网络基础/index.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/blog/mit-6.5940/1-intro/index.md",
+                "file": "content/blog/mit-6.5940/2-神经网络基础/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/blog/mit-6.5940/1-intro/index.md",
+                "file": "content/blog/mit-6.5940/2-神经网络基础/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/blog/mit-6.5940/1-intro/index.md"
+                "file": "content/blog/mit-6.5940/2-神经网络基础/index.md"
               }
             }
           }
@@ -148,9 +148,11 @@
   },
   "active": "c3e8803f0e3c9856",
   "lastOpenFiles": [
+    "content/blog/mit-6.5940/1-intro/index.md",
+    "content/blog/mit-6.5940/2-神经网络基础/index.md",
+    "content/blog/mit-6.5940/2-神经网络基础",
     "content/blog/mit-6.5940/_index.md",
     "content/blog/uiuc-ece408/15-reduction-trees/index.md",
-    "content/blog/mit-6.5940/1-intro/index.md",
     "content/categories/_index.md",
     "content/blog/mit-6.5940/1-intro",
     "content/blog/uiuc-ece408/_index.md",
@@ -177,7 +179,6 @@
     "content/_index.md",
     "content/blog/helloworld/index.md",
     "content/categories",
-    "content/blog/uiuc-ece408/15-reduction-trees",
     "content/blog/helloworld/Pasted image 20240516205354.png",
     "content/blog/helloworld/Pasted image 20240516212032.png",
     "content/blog/helloworld/Pasted image 20240516211905.png",
@@ -192,7 +193,6 @@
     "content/blog/SUSTech-CS205/basic/未命名.md",
     "未命名.md",
     "content/blog/SUSTech-CS205-class/未命名.md",
-    "content/blog/project-management/index.md",
-    "content/blog/test-post/index.md"
+    "content/blog/project-management/index.md"
   ]
 }
